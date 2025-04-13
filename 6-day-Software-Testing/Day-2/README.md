@@ -1,0 +1,8 @@
+## 🚀 Day-2: Building and Deploying Your Portfolio with Python
+Day-2 of the Skill Lab was all about building our personal portfolio websites using Python. This session walked us through creating a basic portfolio from scratch, helping us design and develop a space to showcase our skills, projects, and professional profiles. By the end of the day, we had our very own portfolio websites ready to go live!
+
+A key concept we learned was the importance of virtual environments (venv). We were shown how to set up isolated environments for our projects, which helps keep everything organized and prevents any dependency issues. This is something we’ll definitely carry forward as a best practice in all our future Python projects.
+
+The highlight of the session was deploying our portfolios online. We followed the steps to take our local projects and make them accessible to the world through a live URL. This was a huge step in learning how to turn a personal project into something that can be shared and viewed by others — a crucial skill in both development and personal branding.
+
+By the end of the session, we not only had a portfolio that was up and running but also gained hands-on experience in Python web development, environment management, and web deployment. It was motivating to see our work come to life online, and it gave us the confidence to keep building and sharing our projects in the future.
